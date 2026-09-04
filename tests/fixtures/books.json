@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2001,
+    "isbn": "TEST-ISBN-001",
+    "title": "测试图书一",
+    "author": "测试作者",
+    "publisher": "测试出版社",
+    "category": "测试分类",
+    "total_count": 1,
+    "available_count": 1,
+    "location": "T-01",
+    "status": "NORMAL"
+  },
+  {
+    "id": 2002,
+    "isbn": "TEST-ISBN-002",
+    "title": "并发测试图书",
+    "author": "测试作者",
+    "publisher": "测试出版社",
+    "category": "测试分类",
+    "total_count": 1,
+    "available_count": 1,
+    "location": "T-02",
+    "status": "NORMAL"
+  }
+]

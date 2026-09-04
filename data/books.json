@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1001,
+    "isbn": "9787111213826",
+    "title": "C程序设计语言",
+    "author": "Brian W. Kernighan",
+    "publisher": "机械工业出版社",
+    "category": "计算机",
+    "total_count": 5,
+    "available_count": 5,
+    "location": "A区-01-01",
+    "status": "NORMAL"
+  },
+  {
+    "id": 1002,
+    "isbn": "9787111544937",
+    "title": "深入理解计算机系统",
+    "author": "Randal E. Bryant",
+    "publisher": "机械工业出版社",
+    "category": "计算机",
+    "total_count": 3,
+    "available_count": 3,
+    "location": "A区-01-02",
+    "status": "NORMAL"
+  },
+  {
+    "id": 1003,
+    "isbn": "9787020002207",
+    "title": "红楼梦",
+    "author": "曹雪芹",
+    "publisher": "人民文学出版社",
+    "category": "文学",
+    "total_count": 4,
+    "available_count": 4,
+    "location": "B区-02-01",
+    "status": "NORMAL"
+  },
+  {
+    "id": 1004,
+    "isbn": "9787302000001",
+    "title": "Linux网络编程",
+    "author": "李明",
+    "publisher": "清华大学出版社",
+    "category": "计算机",
+    "total_count": 6,
+    "available_count": 6,
+    "location": "A区-03-01",
+    "status": "NORMAL"
+  }
+]

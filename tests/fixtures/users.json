@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123",
+    "name": "测试管理员",
+    "role": "ADMIN",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "username": "reader1",
+    "password": "reader123",
+    "name": "测试读者一",
+    "role": "READER",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "username": "reader2",
+    "password": "reader123",
+    "name": "测试读者二",
+    "role": "READER",
+    "enabled": true
+  }
+]
